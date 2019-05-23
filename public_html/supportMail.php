@@ -41,9 +41,9 @@ $mail->Port = 465; 	// email 보낼때 사용할 포트를 지정
 
 $mail->SMTPSecure = "ssl";  // SSL을 사용함
 
-$mail->Username = "gecinvitation@gmail.com";  // 계정  [ ??? =gmail 메일주소 @앞부분]
+$mail->Username = "youremail@gmail.com";  // 계정  [ ??? =gmail 메일주소 @앞부분]
 
-$mail->Password ="Invitation123"; // 패스워드         [ ??? = gamil 계정 페스워드 ]
+$mail->Password ="your pasword"; // 패스워드         [ ??? = gamil 계정 페스워드 ]
 
 $mail->CharSet = 'utf-8';
 
