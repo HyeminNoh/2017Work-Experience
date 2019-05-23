@@ -14,7 +14,6 @@
 <http://www.gdsenc.com/>
 
 ![web screenshot](webview.PNG)
-<img width="1520" height="1280"/>
 
 # 개인적소감
 
