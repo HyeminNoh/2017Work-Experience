@@ -92,16 +92,16 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>글로벌엔지니어링(주)</title>
+    <title>기업명</title>
 
     <!--나눔바른고딕 웹폰트-->
     <link href='https://cdn.rawgit.com/openhiun/hangul/14c0f6faa2941116bb53001d6a7dcd5e82300c3f/nanumbarungothic.css' rel='stylesheet' type='text/css'>
-
     <!-- Bootstrap Core CSS -->
     <link href="./Resources/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="./Resources/css/modern-business.css" rel="stylesheet">
+    <link href="./Resources/css/custom.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="./Resources/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -131,7 +131,8 @@
                    <span class="icon-bar"></span>
                    <span class="icon-bar"></span>
                </button>
-               <a class="navbar-brand" href="index.html"><img src="Resources\images\CI_ENG.png" alt="글로벌엔지니어링(주)"></img></a>
+               <!--기업 CI 이미지-->
+               <a class="navbar-brand" href="index.html"><img src="" alt=""></img></a>
            </div>
            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                <ul class="nav navbar-nav navbar-right">
@@ -179,13 +180,13 @@
                        </ul>
                    </li>
                    <li class="dropdown">
-                       <a href="honeywell_goods.html" class="dropdown-toggle" data-toggle="dropdown">제품소개<b class="caret"></b></a>
+                       <a href="goods1.html" class="dropdown-toggle" data-toggle="dropdown">제품소개<b class="caret"></b></a>
                        <ul class="dropdown-menu">
                            <li>
-                               <a href="honeywell_goods.html">Honeywell</a>
+                               <a href="goods1.html">제품1</a>
                            </li>
                            <li>
-                               <a href="matrikon_goods.html">Matrikon OPC</a>
+                               <a href="goods2.html">제품2</a>
                            </li>
                        </ul>
                    </li>
@@ -296,18 +297,18 @@
               <div class="container">
                 <div class="col-sm-9">
                 <font color="gray">
-                <p><br>글로벌엔지니어링(주) | GlobalEngineering Co.,Ltd<small><br>
-                  서울특별시 금천구 디지털로 130 (가산동) 남성프라자 1003, 1005, 1006호 | Tel: 02-865-0791~3 (070-4365-7970~81) | Fax: 02-865-0794<br>
+                <p><br>기업명 | 기업영문명<small><br>
+                  주소지 | Tel: 02-000-0000~0 (070-0000-0000~00) | Fax: 02-000-0000<br>
                   Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a>
-                  <br>Copyright &copy; GlobalEngineering 2017</small></p>
+                  <br>Copyright &copy; HyeminNoh</small></p>
                 </font>
               </div>
               <div class="col-sm-3">
                 <div class="row">
-                  <img style="margin-top:20px" width="300px"src="Resources\images\footerimg.png"></img>
+                  <img style="margin-top:20px" width="300px"src="Resources\images\"></img>
                 </div>
                 <div class="row pull-right">
-                  <img style="margin-top:5px" width="130px" src="Resources\images\footericon.png"></img>
+                  <img style="margin-top:5px" width="130px" src="Resources\images\"></img>
                 </div>
               </div>
               </div>
@@ -320,13 +321,6 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="./Resources/js/bootstrap.min.js"></script>
-
-    <!-- Script to Activate the Carousel -->
-    <script>
-    $('.carousel').carousel({
-        interval: 5000 //changes the speed
-    })
-    </script>
 
 </body>
 
