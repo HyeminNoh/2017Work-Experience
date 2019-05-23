@@ -3,19 +3,20 @@
 # 사용 라이브러리
 * Bootstrap, phpmailer
 
-#기능 및 구성설명
+# 기능 및 구성설명
 * html과 php를 활용해 구현
 * 구글 smtp를 활용, 메일 발송이 가능 한 form 구현
 * db테이블을 로드해 게시판 구성
 * 게시글 선택시 해당 게시글의 내용을 보여줌
 * pdf파일 다운로드 가능
 
-#현재 서비스중인 사이트
+# 현재 서비스중인 사이트
 <http://www.gdsenc.com/>
-![Alt text](2017Work-Experience/webview.png)
-<img width="1520" height="1280"></img>
 
-#개인적소감
+![web screenshot](/webview.png)
+<img width="1520" height="1280"/>
+
+# 개인적소감
 
 웹에 대해서 아무것도 몰랐던 시절 맨땅에 헤딩으로 어렵게 작업했던 결과물이다.
 지금보면 정말 잘못된 부분이 하나부터 열까지 끝이없지만,
