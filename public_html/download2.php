@@ -1,7 +1,7 @@
 <?
-$filename = "Matrikon_Industrial_Connectivity_Experts.pdf";
-$reail_filename = urldecode("Matrikon_Industrial_Connectivity_Experts.pdf");
-$file_dir = "./Catalogue/Matrikon_Industrial_Connectivity_Experts.pdf";
+$filename = "your_catalogue.pdf";
+$reail_filename = urldecode("your_catalogue.pdf");
+$file_dir = "./Catalogue/your_catalogue.pdf";
 
 header('Content-Type: application/x-octetstream');
 header('Content-Length: '.filesize($file_dir));
